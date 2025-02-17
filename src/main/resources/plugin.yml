@@ -1,0 +1,9 @@
+name: criper-RWRestart
+version: '${project.version}'
+main: ru.criperms.criperrwrestart.Main
+api-version: '1.16'
+authors:
+  - CriperMS
+commands:
+  crestart:
+    description: Restart Server
